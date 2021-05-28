@@ -2,7 +2,7 @@
   <img width="100%" src="https://github.com/hashansl/hashansl/blob/0a99ab4021dd237f2688dec7e9665e3724c0bad6/Twitter-Channel-Art.jpg">
 </a>
 
-🔴 **Insights about Machine Learning •Data Science •Data Visualization**
+🔴 **Machine Learning •Statistics •Data Science •Data Visualization**
 
 🟢  **I would love to support open source projects, authors, and companies. If you have an interesting open source project, a library, a paper, etc. and you think it would be interesting: please drop me a message**
 
