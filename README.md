@@ -2,9 +2,9 @@
   <img width="100%" src="https://github.com/hashansl/hashansl/blob/0a99ab4021dd237f2688dec7e9665e3724c0bad6/Twitter-Channel-Art.jpg">
 </a>
 
-🔴 **Insights about Machine Learning •Data Science •Data Visualization **
+🔴 **Insights about Machine Learning •Data Science •Data Visualization**
 
-🟢  **I would love to support open source projects, authors, and companies. If you have an interesting open source project, a library, a paper, etc. and you think it would be interesting: please drop me a message here**
+🟢  **I would love to support open source projects, authors, and companies. If you have an interesting open source project, a library, a paper, etc. and you think it would be interesting: please drop me a message**
 
 🔵 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashandananjaya1/)
