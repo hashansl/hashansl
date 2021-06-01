@@ -1,6 +1,5 @@
-<a href="https://www.youtube.com/dataprofessor?sub_confirmation=1">
-  <img width="100%" src="https://github.com/hashansl/hashansl/blob/0a99ab4021dd237f2688dec7e9665e3724c0bad6/Twitter-Channel-Art.jpg">
-</a>
+<img width="100%" src="https://github.com/hashansl/hashansl/blob/0a99ab4021dd237f2688dec7e9665e3724c0bad6/Twitter-Channel-Art.jpg">
+
 
 🔴 **Machine Learning •Statistics •Data Science •Data Visualization**
 
