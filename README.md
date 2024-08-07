@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/hashansl/hashansl/blob/0a99ab4021dd237f2688dec7e9665e3724c0bad6/1638211938985.jpeg">
+<img width="100%" src="https://github.com/hashansl/hashansl/blob/main/1638211938985.jpeg">
 
 
 🔴 **Machine Learning •Statistics •Data Science •Data Visualization**
